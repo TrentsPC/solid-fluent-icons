@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.vscode/
+coverage/
+solid-fluent-icons-*.tgz
+
+.DS_Store
+**/.DS_Store
