@@ -14,9 +14,9 @@ import { AlertIcon, MoreHorizontalIcon, OptionsIcon } from 'solid-fluent-icons'
 function MyComponent() {
   return (
     <div>
-      <FaceIcon />
-      <SunIcon />
-      <ImageIcon />
+      <AlertIcon />
+      <MoreHorizontalIcon />
+      <OptionsIcon />
     </div>
   )
 }
@@ -30,15 +30,15 @@ import { AlertIcon, MoreHorizontalIcon, OptionsIcon } from 'solid-fluent-icons/2
 function MyComponent() {
   return (
     <div>
-      <FaceIcon />
-      <SunIcon />
-      <ImageIcon />
+      <AlertIcon />
+      <MoreHorizontalIcon />
+      <OptionsIcon />
     </div>
   )
 }
 ```
 
-The available sizes `10`, `12`, `16`, `20`, `24`, `28`, `32`, `48`. The default size is `24`.
+The available sizes are `10`, `12`, `16`, `20`, `24`, `28`, `32`, `48`. The default size is `24`.
 
 Not all icons are available at every size.
 
